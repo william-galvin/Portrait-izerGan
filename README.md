@@ -2,6 +2,9 @@
 
 A GAN that transfers stylistic elements from oil-painted portraits onto photographs. 
 
+## Motivation
+I made this project as a way to begin to explore generative adversarial networks (GANs), which I recognize as one the most visually impressive types of neural networks, but which I had no prior experience in.
+
 ## Acknowledgements
 
 The datasets used in this project can be found here:
@@ -18,7 +21,16 @@ Some of the other particularly helpful resources and tutorials I used:
 - [Make-A-Monet: Image Style Transfer With Cycle GANs](https://ucladatares.medium.com/make-a-monet-image-style-transfer-with-cycle-gans-5475dcb525b8) from DataRes at UCLA
 
 ## Examples:
-Put pictures here
+![](https://github.com/william-galvin/Portrait-izerGan/blob/main/examples/example6.png?raw=true)
+![](https://github.com/william-galvin/Portrait-izerGan/blob/main/examples/example2.png?raw=true)
+![](https://github.com/william-galvin/Portrait-izerGan/blob/main/examples/example8.png?raw=true)
+![](https://github.com/william-galvin/Portrait-izerGan/blob/main/examples/example4.png?raw=true)
+![](https://github.com/william-galvin/Portrait-izerGan/blob/main/examples/example5.png?raw=true)
+![](https://github.com/william-galvin/Portrait-izerGan/blob/main/examples/example1.png?raw=true)
+![](https://github.com/william-galvin/Portrait-izerGan/blob/main/examples/example7.png?raw=true)
+![](https://github.com/william-galvin/Portrait-izerGan/blob/main/examples/example3.png?raw=true)
+![](https://github.com/william-galvin/Portrait-izerGan/blob/main/examples/example10.png?raw=true)
+![](https://github.com/william-galvin/Portrait-izerGan/blob/main/examples/example9.png?raw=true)
 
 ## Comments
 The goal of this project was to take stylistic elements from oil-painted portraits and transfer them onto photographs—and within that scope, it was largely successful. Characteristics of the training data, like darker and smudgier backgrounds, more severe facial features, and less depth can be seen in the examples.
